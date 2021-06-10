@@ -5,14 +5,12 @@
 
 #top{
   color:white;
-  font-size:10px;
-    transform:translatey(-200%) translatex(10px);
-  
-  
+  position:fixed;
+  top:0px;
+   
 }
 #top span{
   float:right;
-  transform:translatey(-50px);
 }
 #top a{
   color:white;
